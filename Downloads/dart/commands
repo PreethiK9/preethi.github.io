@@ -1,0 +1,20 @@
+1.ls
+2.tar xfv 
+3.cp -rv Android/ ~
+4.gedit ~/.bashrc
+5.export ANDROID_HOME=$HOME/Android/Sdk
+  export PATH=$PATH:$HOME/flutter/bin:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
+6.source ~/.bashrc
+in visual studio install flutter then run flutter doctor
+7.sis/gechassan/.ac.in/glue/camp/feedback
+
+
+search bar is one widget
+widget is gui component we interact with that widget .ex serach message more options
+button is a statefull widgets//i.e state is changing
+state will not be not chatateless widget
+CHANGE THE contents in program part and press r in terminal where flutter is running
+In google search flutter.dev
+in that learn some widgets
+
+building ui for calculator
